@@ -1,0 +1,5 @@
+# Loại trừ tất cả các file và thư mục bên trong HelloWorld
+/HelloWorld/*
+# Cho phép thư mục src và nội dung của nó
+!/HelloWorld/src
+!/HelloWorld/src/*
